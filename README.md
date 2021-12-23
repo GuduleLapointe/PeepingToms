@@ -8,6 +8,8 @@ This is not my best achivement, but I find it quite funny. If you use NPCs in yo
 
 You can fix the scan radius, the distance they keep from the watched avatar, the occuppied angle (360 for all around, smaller to get them more in front), adjust rotation (to get them on the side, on front or rear), and make them change dress when they watch.
 
+Sometimes, an NPC is too far and cancel its move right before being in place so it disappear and go back to its initial position. It's a bug, but it adds some randomness, so it sounds fair to me.
+
 ## Requirement
 
 It uses only standard LSL functions, but rely on an NPC server, which means it's only relevant in a region where OSLL NPC functions are enabled.
